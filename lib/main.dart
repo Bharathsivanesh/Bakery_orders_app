@@ -26,10 +26,7 @@ void main() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
         options: FirebaseOptions(
-            apiKey: "AIzaSyDCJXrhiUn9ww5a_aWHTfjucowNYSTsCnE",
-            appId: "1:389173374810:web:f57187a4af219edcb8cd63",
-            messagingSenderId: "389173374810",
-            projectId: "eeproject-a24ea"));
+           //replace here your firebase api
   }
   await Firebase.initializeApp();
   runApp(MyApp());
