@@ -1,4 +1,3 @@
-1)git graph
 
 #**🏆 Publication & Recognition**
 
