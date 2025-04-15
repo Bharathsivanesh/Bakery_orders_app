@@ -85,6 +85,7 @@ flutter pub get
 flutter run
 
 Screenshots:
-![Image](https://github.com/user-attachments/assets/227f300c-5c7b-4f8c-b22f-41d51f82fe20)
-![Image](https://github.com/user-attachments/assets/c0438a45-8cc9-4564-958d-e1347218a78e)
-![Image](https://github.com/user-attachments/assets/4cdae4df-65a3-435b-9eb3-c36b7c559668)
+[![Screenshot-2025-04-15-144452.png](https://i.postimg.cc/jSjyp7B3/Screenshot-2025-04-15-144452.png)](https://postimg.cc/vcp19cY5)
+[![Screenshot-2025-04-15-144608.png](https://i.postimg.cc/j5YwSwkb/Screenshot-2025-04-15-144608.png)](https://postimg.cc/kVwXj4m1)
+[![Screenshot-2025-04-15-144804.png](https://i.postimg.cc/C5FRjygr/Screenshot-2025-04-15-144804.png)](https://postimg.cc/DJMfTMm1)
+[![Screenshot-2025-04-15-143901.png](https://i.postimg.cc/bNwGrjLs/Screenshot-2025-04-15-143901.png)](https://postimg.cc/PN0fV9gj)
